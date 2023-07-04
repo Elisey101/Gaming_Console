@@ -1,7 +1,7 @@
 # ESP Gaming_Console
 
-My own gaming console by scratch 🛠
+##My own gaming console by scratch 🛠
 <br/>
 <img src="images/pcb.jpg" />
-<img src="images/pcb.jpg1" />
-<img src="images/pcb.jpg2" />
+<img src="images/pcb1.jpg" />
+<img src="images/pcb2.jpg" />
